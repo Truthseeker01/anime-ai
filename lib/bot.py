@@ -16,8 +16,7 @@ class AnmieAI:
         'Why are you here?',
         'What is your favorite anime?',
         'Do you like anime?',
-        'Why do like anime?',
-        'How many animes have you watched so far?'
+        'Why do like anime?'
     )
 
     descriptions = ('fantastic', 'great', 'fun', 'just wow')
